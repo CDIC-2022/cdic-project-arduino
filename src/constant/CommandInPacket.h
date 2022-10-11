@@ -1,0 +1,11 @@
+#ifndef CE0CE024_2777_46F3_999E_0EC3C36A66BF
+#define CE0CE024_2777_46F3_999E_0EC3C36A66BF
+namespace CMD_FROM_SERVER
+{
+    const int UNDEFINED = -1;
+    const int CONNECT_CURRENT = 1;
+    const int BREAK_CURRENT = 2;
+    const int NO_ACTION = 3;
+}
+
+#endif /* CE0CE024_2777_46F3_999E_0EC3C36A66BF */
