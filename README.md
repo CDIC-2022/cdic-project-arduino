@@ -20,4 +20,4 @@ Scrooge 아두이노💡
 
 ---
 ## 프로젝트 설명
-[Notion](https://seongchancho.notion.site/Scrooge-8e91434fd1cf43a4995ecf8bb219aef2)
+[Notion](https://seongchancho.notion.site/Scrooge-2965be82e745496c8f274cf405f94943?pvs=4)
